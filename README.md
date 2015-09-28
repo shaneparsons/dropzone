@@ -1,3 +1,10 @@
+Please Note:
+============
+**This fork was made to tweak some styling as needed for my particular needs, and it may not suite your needs.**
+**You can use it if you wish.. but just know that I won't necesarily care about any issues that arise with it.**
+
+=====
+
 <img alt="Dropzone.js" src="http://www.dropzonejs.com/images/new-logo.svg" />
 
 [ ![Codeship Status for enyo/dropzone](https://codeship.com/projects/3fc90800-74e0-0132-38ce-22ab3bab314c/status?branch=master)](https://codeship.com/projects/55087)
