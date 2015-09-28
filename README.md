@@ -4,6 +4,6 @@ This fork was made to tweak some styling as needed for my particular needs, and 
 
 You can use it if you wish.. but just know that I won't necesarily care about any issues that arise with it.
 
-Here's a link to the master branch, which is where you should probably be..
+Below is a link to the master branch, which is where you should probably be..
 
 *https://github.com/enyo/dropzone*
